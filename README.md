@@ -12,6 +12,38 @@
 
 <h1 name="ru" id="ru">Автоматизация раздачи звёзд на все репозитории, указанные в списке аккаунтов GitHub</h1>
 
+## Инструкция
+
+### Замените:
+
+  •  имя пользователя `username`
+  
+  •  пароль `password`
+  
+  •  список аккаунтов для продвижения звёздами `pages_to_star`
+```
+   [
+   "https://github.com/nakigoe", 
+   "https://github.com/nakigoe",
+   "https://github.com/nakigoe"
+   ]
+```
+  
+### Установите Python:
+
+  •  https://www.python.org/downloads/
+
+### Установите PIP, если он не установился с Python автоматически:
+
+  •  https://pip.pypa.io/en/stable/installation/
+
+### Установите библиотеки (откройте командную строку):
+
+  •  Selenium `pip install selenium`
+  
+### Запускайте!
+
+  •  двойной щелчок мыши по `start.bat`
 
 <h2 style="margin: 0 auto" align="center">Place all stars on GitHub and share!!!</h2>
 <br>
