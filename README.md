@@ -2,6 +2,40 @@
 
 <h1 name="en" id="en">All-Star All Your Friends on GitHub!</h1>
 
+<b>Do a good deed, star them all and all their repositories!</b>
+
+## How To Use
+
+### Change:
+
+  •  Your GitHub login `username`
+  
+  •  Your GitHub password `password`
+    
+  •  The list of accounts to star `pages_to_star`
+```
+   [
+   "https://github.com/nakigoe", 
+   "https://github.com/nakigoe",
+   "https://github.com/nakigoe"
+   ]
+```
+    
+### Install Python:
+
+  •  https://www.python.org/downloads/
+
+### Install PIP If it Has Not been Installed With Python Automatically:
+
+  •  https://pip.pypa.io/en/stable/installation/
+
+### Install Libraries (please open the command line interface):
+
+  •  Selenium `pip install selenium`
+
+### Star Them All!
+
+  •  double-click on `start.bat`
 
 <hr>
 
