@@ -41,6 +41,34 @@
 
 <h1 name="ja" id="ja">GitHubで指定したアカウントのすべてのリポジトリにスターを追加する自動化：</h1>
 
+## 用取扱説明書
+
+### こちらで変更なさってください：
+
+  •  GitHub のユーザー名 `username`
+  
+  •  GitHub のパスワード `password`
+  
+  •  星を付けるアカウントのリスト `pages_to_star`
+```
+   [
+   "https://github.com/nakigoe", 
+   "https://github.com/nakigoe",
+   "https://github.com/nakigoe"
+   ]
+```
+  
+### Python をインストールなさってください：
+
+  •  https://www.python.org/downloads/
+
+### PIP が Python とともに自動的にインストールされていない場合は、PIP をインストールします:
+
+  •  https://pip.pypa.io/en/stable/installation/
+
+### Python ライブラリをインストールなさってください (コマンド プロンプトを開いてください)：
+
+  •  Selenium `pip install selenium`
 
 <hr>
 
